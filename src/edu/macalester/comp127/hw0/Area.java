@@ -21,7 +21,7 @@ public class Area {
      */
     public static double getCircleArea(double radius) {
         // TODO: replace me with the correct formula
-        return radius * radius*Math.PI;
+        return radius * radius * Math.PI;
     }
 
 }
